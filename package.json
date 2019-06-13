@@ -4,7 +4,7 @@
     "rtail": "^0.2.1"
   },
   "name": "the-six",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
