@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "global": "^4.3.2",
+    "rtail": "^0.2.1"
+  },
+  "name": "the-six",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Nuñez",
+  "license": "ISC",
+  "description": "you used to"
+}
